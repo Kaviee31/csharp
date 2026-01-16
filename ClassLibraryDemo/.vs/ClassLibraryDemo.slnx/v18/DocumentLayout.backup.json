@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\csharp\\ClassLibraryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2CEA1B-E2FD-4679-8B7A-7F88D087A8CA}|UIApp\\UIApp.csproj|c:\\users\\admin\\downloads\\csharp\\classlibrarydemo\\uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2CEA1B-E2FD-4679-8B7A-7F88D087A8CA}|UIApp\\UIApp.csproj|solutionrelative:uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89776EB-DD57-4A45-BF5E-5C6D9811A6B5}|DemoLib\\DemoLib.csproj|c:\\users\\admin\\downloads\\csharp\\classlibrarydemo\\demolib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89776EB-DD57-4A45-BF5E-5C6D9811A6B5}|DemoLib\\DemoLib.csproj|solutionrelative:demolib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\ClassLibraryDemo\\UIApp\\Program.cs",
+              "RelativeDocumentMoniker": "UIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\ClassLibraryDemo\\UIApp\\Program.cs",
+              "RelativeToolTip": "UIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:21:59.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\ClassLibraryDemo\\DemoLib\\Class1.cs",
+              "RelativeDocumentMoniker": "DemoLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\ClassLibraryDemo\\DemoLib\\Class1.cs",
+              "RelativeToolTip": "DemoLib\\Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:01:01.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

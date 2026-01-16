@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\obj\Debug\PersonLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Users\Admin\Downloads\csharp\Assignment1\PersonLibrary\obj\Debug\PersonLibrary.pdb

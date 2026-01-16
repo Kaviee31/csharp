@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\csharp\kavi\kavi\bin\Debug\net10.0\kavi.exe
+C:\Users\Admin\Downloads\csharp\kavi\kavi\bin\Debug\net10.0\kavi.deps.json
+C:\Users\Admin\Downloads\csharp\kavi\kavi\bin\Debug\net10.0\kavi.runtimeconfig.json
+C:\Users\Admin\Downloads\csharp\kavi\kavi\bin\Debug\net10.0\kavi.dll
+C:\Users\Admin\Downloads\csharp\kavi\kavi\bin\Debug\net10.0\kavi.pdb
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.AssemblyInfo.cs
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.dll
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\refint\kavi.dll
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.pdb
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\kavi.genruntimeconfig.cache
+C:\Users\Admin\Downloads\csharp\kavi\kavi\obj\Debug\net10.0\ref\kavi.dll

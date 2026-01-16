@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\bin\Debug\DemoLib.dll
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\bin\Debug\DemoLib.pdb
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\obj\Debug\DemoLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\obj\Debug\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\obj\Debug\DemoLib.dll
+C:\Users\Admin\Downloads\csharp\ClassLibraryDemo\DemoLib\obj\Debug\DemoLib.pdb
