@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\csharp\\CollectionDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62EA8800-C7E7-40E9-87B6-27631F320B30}|CollectionDemo\\CollectionDemo.csproj|c:\\users\\admin\\downloads\\csharp\\collectiondemo\\collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62EA8800-C7E7-40E9-87B6-27631F320B30}|CollectionDemo\\CollectionDemo.csproj|solutionrelative:collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFF87609-D980-5F4B-D888-CEBA97BF142B}|CollectionDemo\\CollectionDemo.csproj|c:\\users\\admin\\downloads\\csharp\\collectiondemo\\collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF87609-D980-5F4B-D888-CEBA97BF142B}|CollectionDemo\\CollectionDemo.csproj|solutionrelative:collectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,9 +26,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\CollectionDemo\\CollectionDemo\\Program.cs",
               "RelativeDocumentMoniker": "CollectionDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\CollectionDemo\\CollectionDemo\\Program.cs",
-              "RelativeToolTip": "CollectionDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\CollectionDemo\\CollectionDemo\\Program.cs*",
+              "RelativeToolTip": "CollectionDemo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T09:02:09.037Z",
               "EditorCaption": ""
