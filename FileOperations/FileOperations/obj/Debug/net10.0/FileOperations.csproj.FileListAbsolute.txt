@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\bin\Debug\net10.0\FileOperations.exe
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\bin\Debug\net10.0\FileOperations.deps.json
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\bin\Debug\net10.0\FileOperations.runtimeconfig.json
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\bin\Debug\net10.0\FileOperations.dll
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\bin\Debug\net10.0\FileOperations.pdb
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.AssemblyInfo.cs
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.sourcelink.json
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.dll
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\refint\FileOperations.dll
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.pdb
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\FileOperations.genruntimeconfig.cache
+C:\Users\Admin\Downloads\csharp\FileOperations\FileOperations\obj\Debug\net10.0\ref\FileOperations.dll
