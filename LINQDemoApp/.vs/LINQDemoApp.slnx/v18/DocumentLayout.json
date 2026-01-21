@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|solutionrelative:linqdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|solutionrelative:linqdemoapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|solutionrelative:linqdemoapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|solutionrelative:linqdemoapp\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LINQDemoApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|solutionrelative:linqdemoapp\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB577DE-C09E-466A-B009-7C1B4F93C42A}|LINQDemoApp\\LINQDemoApp.csproj|c:\\users\\admin\\downloads\\csharp\\linqdemoapp\\linqdemoapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Utilities.cs",
+              "RelativeDocumentMoniker": "LINQDemoApp\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Utilities.cs",
+              "RelativeToolTip": "LINQDemoApp\\Utilities.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:23:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LINQDemoApp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\LINQDemoApp.csproj",
+              "RelativeDocumentMoniker": "LINQDemoApp\\LINQDemoApp.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\LINQDemoApp.csproj",
+              "RelativeToolTip": "LINQDemoApp\\LINQDemoApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-20T08:52:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\DelegateDemo.cs",
+              "RelativeDocumentMoniker": "LINQDemoApp\\DelegateDemo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\DelegateDemo.cs",
+              "RelativeToolTip": "LINQDemoApp\\DelegateDemo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wEsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:25:50.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQDemoApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Employee.cs",
+              "RelativeToolTip": "LINQDemoApp\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvw4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:36:06.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Department.cs",
+              "RelativeDocumentMoniker": "LINQDemoApp\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Department.cs",
+              "RelativeToolTip": "LINQDemoApp\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:33:32.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "LINQDemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\LINQDemoApp\\LINQDemoApp\\Program.cs",
+              "RelativeToolTip": "LINQDemoApp\\Program.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAqwNsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:31:58.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

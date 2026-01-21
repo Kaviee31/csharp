@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfApp_Day8.Collection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Day8"
+        mc:Ignorable="d"
+        Title="Collection" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*" />
+        </Grid.RowDefinitions>
+
+        <Label Content="Northwind Form" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource BaseStyle}"/>
+
+        <Grid Grid.Row="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Content="ProductId"  />
+            <Label Grid.Row="1" Grid.Column="0" Content="ProductName" />
+            <Label Grid.Row="2" Grid.Column="0" Content="ProductPrice" />
+            <TextBox Grid.Row="0" Grid.Column="1"  Name="txtId" />
+            <TextBox Grid.Row="1" Grid.Column="1" Name="txtName"  />
+            <TextBox Grid.Row="2" Grid.Column="1" Name="txtPrice"  />
+        </Grid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="btnAdd" Content="_Add"  Click="btnAdd_Click"  />
+            <Button Name="btnSave" Content="_Save" />
+            <Button Name="btnEdit" Content="_Edit" />
+            <Button Name="btnDelete" Content="_Delete" />
+            <Button Name="btnExit" Content="E_xit"  />
+        </StackPanel>
+        <DataGrid x:Name="datagridProducts" Margin="5" Grid.Row="4"  ItemsSource="{Binding}" />
+    </Grid>
+</Window>

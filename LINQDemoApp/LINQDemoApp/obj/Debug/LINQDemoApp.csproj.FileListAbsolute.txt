@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\bin\Debug\LINQDemoApp.exe.config
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\bin\Debug\LINQDemoApp.exe
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\bin\Debug\LINQDemoApp.pdb
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\obj\Debug\LINQDemoApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\obj\Debug\LINQDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\obj\Debug\LINQDemoApp.exe
+C:\Users\Admin\Downloads\csharp\LINQDemoApp\LINQDemoApp\obj\Debug\LINQDemoApp.pdb

@@ -1,0 +1,97 @@
+﻿<Window x:Class="WpfAppDemo.Layour1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppDemo"
+        mc:Ignorable="d"
+        Title="Layour1" Height="450" Width="800">
+    <!--<WrapPanel>
+        <Button Width="100" Height ="100" Content = "Button 1" Name = "btn1" Click="btn1_Click" ></Button>
+        <Button Width="100" Height ="100" Content = "Button 2" Name = "btn2" Click="btn2_Click" ></Button>
+        <Button Width="100" Height ="100" Content = "Button 3" Name = "btn3" Click="btn3_Click" ></Button>
+    </WrapPanel>-->
+    <!--<DockPanel>
+        <WrapPanel DockPanel.Dock="Top">
+            <Button Width="100" Height ="100" Content = "Button 1" Name = "btn1" Click="btn1_Click" ></Button>
+            <Button Width="100" Height ="100" Content = "Button 2" Name = "btn2" Click="btn2_Click" ></Button>
+            <Button Width="100" Height ="100" Content = "Button 3" Name = "btn3" Click="btn3_Click" ></Button>
+            </WrapPanel>
+            <Button Content = "Button Top" Name = "btnTop" Click="btnTop_Click" DockPanel.Dock="Top"></Button>
+        <Button Width="100" Height ="100" Content = "Button Bottom" Name = "btnBottom" Click="btnBottom_Click" DockPanel.Dock="Bottom"></Button>
+        <Button Width="100" Height ="100" Content = "Button Left" Name = "btnLeft" Click="btnLeft_Click" DockPanel.Dock="Left"></Button>
+        <Button Width="100" Height ="100" Content = "Button Right" Name = "btnRight" Click="btnRight_Click" DockPanel.Dock="Right"></Button>
+    </DockPanel>-->
+
+    <Window.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="Green"/>
+
+        </Style>
+        
+    </Window.Resources>
+    <Grid 
+            >
+        <!--<Grid.Resources>
+            <Style TargetType="TextBox">
+                <Setter Property="Foreground" Value="DarkMagenta"></Setter>
+             </Style>
+        </Grid.Resources>-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height=" 2*"/>
+            <RowDefinition Height="  5*"/>
+            <RowDefinition Height="  3*"/>
+
+
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0"
+               Grid.Row="0" 
+               Content="Northwind Form"
+              >
+        </Label>
+        <Grid Grid.Row="1"  >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="  2*"/>
+                <ColumnDefinition Width="  8*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="  1*"/>
+                <RowDefinition Height="  1*"/>
+                <RowDefinition Height="  1*"/>
+
+            </Grid.RowDefinitions>
+            <Label Grid.Column="0" Grid.Row="0"   Content="Product ID:"  HorizontalAlignment="Right" VerticalAlignment="Center">
+                
+            </Label>
+
+            <Label Grid.Column="0" Grid.Row="1"  Content="Prodcut No.:"  HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5">
+            </Label>
+
+            <Label Grid.Column="0" Grid.Row="02"   Content="Product price:"  HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5">
+            </Label>
+
+            <TextBox
+                Grid.Row="0"
+                 Grid.Column="1"/>
+            <TextBox
+     Grid.Row="1"
+      
+      Grid.Column="1"/>
+            <TextBox
+     Grid.Row="2"
+        Grid.Column="1"/>
+
+
+
+        </Grid>
+        <WrapPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Width="100" Height ="40" Content = "Save" Name = "btnSave" Margin="5"></Button>
+            <Button Width="100" Height ="40" Content = "Update" Name = "btnUpdate"  Margin="5"></Button>
+            <Button Width="100" Height ="40" Content = "Delete" Name = "btnDelete"  Margin="5"></Button>
+            <Button Width="100" Height ="40" Content = "new" Name = "new" Margin="5"></Button>
+            <Button Width="100" Height ="40" Content = "Prev" Name = "prev"  Margin="5"></Button>
+
+        </WrapPanel>
+
+    </Grid>
+</Window>
