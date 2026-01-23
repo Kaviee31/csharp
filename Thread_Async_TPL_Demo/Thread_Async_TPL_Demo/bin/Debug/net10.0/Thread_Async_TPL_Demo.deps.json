@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Thread_Async_TPL_Demo/1.0.0": {
+        "runtime": {
+          "Thread_Async_TPL_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thread_Async_TPL_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

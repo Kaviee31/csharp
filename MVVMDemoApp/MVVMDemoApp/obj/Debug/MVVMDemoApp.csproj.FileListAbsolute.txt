@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\bin\Debug\MVVMDemoApp.exe.config
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\bin\Debug\MVVMDemoApp.exe
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\bin\Debug\MVVMDemoApp.pdb
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\Views\UserForm.g.cs
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp_MarkupCompile.cache
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp_MarkupCompile.lref
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\Views\UserForm.baml
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.g.resources
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.Properties.Resources.resources
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.exe
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\MVVMDemoApp.pdb
+C:\Users\Admin\Downloads\csharp\MVVMDemoApp\MVVMDemoApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

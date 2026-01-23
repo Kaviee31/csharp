@@ -1,0 +1,65 @@
+﻿<Window x:Class="MVVMDemoApp.Views.UserForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVMDemoApp.Views"
+        xmlns:localVM="clr-namespace:MVVMDemoApp.ViewModels"
+        mc:Ignorable="d"
+        Title="UserForm" Height="450" Width="800">
+    <Window.Resources>
+        <localVM:UserViewModel x:Key="userVM"/>
+    </Window.Resources>
+
+    <Grid DataContext="{StaticResource userVM}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Name="childgrid" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Content="User ID" />
+            <Label Grid.Row="1" Content="First name" />
+            <Label Grid.Row="2" Content="Last Name" />
+            <Label Grid.Row="3" Content="Country" />
+            <TextBox Grid.Row="0" Grid.Column="1"   Text="{Binding UserId}" />
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding FName}" />
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding LName}"  />
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Country}"  />
+        </Grid>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button Grid.Row="1" Content="Add User"   />
+            <Button Grid.Row="2" Content="Delete User" />
+        </StackPanel>
+        <ListView Grid.Row="2" Name="lstUser" ItemsSource="{Binding Users}"   >
+            <ListView.View>
+                <GridView x:Name="grdTest" >
+                    <GridViewColumn Header="UserId"   Width="50"
+                                DisplayMemberBinding="{Binding UserId}"
+                                />
+                    <GridViewColumn Header="First Name"  Width="80"
+                                DisplayMemberBinding="{Binding FName}"
+                                />
+                    <GridViewColumn Header="Last Name"  Width="100"
+                                DisplayMemberBinding="{Binding LName}"
+                                />
+                    <GridViewColumn Header="Country"  Width="100"
+                                DisplayMemberBinding="{Binding Country}"
+                                />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

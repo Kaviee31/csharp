@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|c:\\users\\admin\\downloads\\csharp\\wpfapp_inotify_and_icommand\\wpfapp_inotify_and_icommand\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|solutionrelative:wpfapp_inotify_and_icommand\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|c:\\users\\admin\\downloads\\csharp\\wpfapp_inotify_and_icommand\\wpfapp_inotify_and_icommand\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|solutionrelative:wpfapp_inotify_and_icommand\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|c:\\users\\admin\\downloads\\csharp\\wpfapp_inotify_and_icommand\\wpfapp_inotify_and_icommand\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AF4E-A598-4DE3-B68D-5AD6313BB712}|WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand.csproj|solutionrelative:wpfapp_inotify_and_icommand\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\Person.cs",
+              "RelativeDocumentMoniker": "WpfApp_INotify_and_ICommand\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\Person.cs",
+              "RelativeToolTip": "WpfApp_INotify_and_ICommand\\Person.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:50:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_INotify_and_ICommand\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_INotify_and_ICommand\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T04:45:12.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_INotify_and_ICommand\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\csharp\\WpfApp_INotify_and_ICommand\\WpfApp_INotify_and_ICommand\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_INotify_and_ICommand\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:45:11.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\bin\Debug\WpfApp_INotify_and_ICommand.exe.config
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\bin\Debug\WpfApp_INotify_and_ICommand.exe
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\bin\Debug\WpfApp_INotify_and_ICommand.pdb
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand_MarkupCompile.cache
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand_MarkupCompile.lref
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.g.resources
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.Properties.Resources.resources
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.exe
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\WpfApp_INotify_and_ICommand.pdb
+C:\Users\Admin\Downloads\csharp\WpfApp_INotify_and_ICommand\WpfApp_INotify_and_ICommand\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.AssemblyInfo.cs
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.sourcelink.json
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\bin\Debug\net10.0\Thread_Async_TPL_Demo.exe
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\bin\Debug\net10.0\Thread_Async_TPL_Demo.deps.json
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\bin\Debug\net10.0\Thread_Async_TPL_Demo.runtimeconfig.json
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\bin\Debug\net10.0\Thread_Async_TPL_Demo.dll
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\bin\Debug\net10.0\Thread_Async_TPL_Demo.pdb
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.dll
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\refint\Thread_Async_TPL_Demo.dll
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.pdb
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\Thread_Async_TPL_Demo.genruntimeconfig.cache
+C:\Users\Admin\Downloads\csharp\Thread_Async_TPL_Demo\Thread_Async_TPL_Demo\obj\Debug\net10.0\ref\Thread_Async_TPL_Demo.dll
